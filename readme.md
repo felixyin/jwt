@@ -15,5 +15,6 @@ http://qtrj.i234.me:900//vs/sharing/OaKnmjoJ
 mvn tomcat7:run
 
 测试帐号：
-admin1 ~ 9
-password1 ~ 9
+
+- admin1 ~ 9
+- password1 ~ 9
